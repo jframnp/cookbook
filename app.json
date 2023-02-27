@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "cookbook",
+    "name": "CookBook",
     "slug": "cookbook",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.perronelol.cookbook"
     },
     "web": {
       "favicon": "./assets/favicon.png"

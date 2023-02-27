@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://ra-5ke.perronelol.cookbook.exp.direct",
+  "packagerNgrokUrl": "https://ra-5ke.perronelol.cookbook.exp.direct",
+  "ngrokPid": 1208,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
