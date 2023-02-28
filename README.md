@@ -4,7 +4,7 @@
 
 ## Tecnologias 
 
-- *React Native* "18.2.0"
+- *React Native* "18.2c.0"
 - *Node* "16.13.2"
 - *JavaScript*
 - *Expo* 
@@ -58,5 +58,4 @@
  * **João Francisco**
  * **Murilo Marcondes**
  * **Vitor Perrone**
- 
  Obrigado por nos visitarem e Happy coding!
