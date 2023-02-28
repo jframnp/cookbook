@@ -4,7 +4,7 @@
 
 ## Tecnologias 
 
-- *React Native* "18.2c.0"
+- *React Native* "18.2.0"
 - *Node* "16.13.2"
 - *JavaScript*
 - *Expo* 
