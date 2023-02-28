@@ -1,3 +1,4 @@
+![Logo of the project](https://github.com/jframnp/cookbook/blob/main/assets/image_logo.jpeg)
 ## COOKBOOK
 ### *Este projeto é um aplicativo em React Native que possibilita o usuário visualizar receitas de comida.*
 
