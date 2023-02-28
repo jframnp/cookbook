@@ -1,6 +1,6 @@
 ![Logo of the project](https://github.com/jframnp/cookbook/blob/main/assets/image_logo.jpeg)
 ## COOKBOOK
-### *Este projeto é um aplicativo em React Native que possibilita o usuário visualizar receitas de comida.*
+### *Este projeto é um aplicativo em React Native que possibilita o usuário visualizar receitas.*
 
 
 ## Tecnologias 
@@ -8,7 +8,7 @@
 - *React Native* "18.2.0"
 - *Node* "16.13.2"
 - *JavaScript*
-- *Expo* 
+- *Expo "46.0.0"* 
 - *GitHub*
 
 
@@ -18,6 +18,11 @@
 
 - [Instalar o node](https://nodejs.org/en)
 - *No cmd insira o comando*
+
+```
+- npm i expo-cli
+```
+- *Para baixar todas as dependências do app*
 
 ```
 - npm install
