@@ -38,10 +38,11 @@
 ## Como usar o App
 
 ### 1 - Quando o projeto estiver sendo executado, você vai estar na tela inicial, onde você poderá selecionar alguns receitas
+![Logo of the project](https://github.com/jframnp/cookbook/blob/main/assets/image_home.jpeg)
 
 
 ### 2 - Após isso, você vai para o card onde mostra a receita que escolheu anteriormente.
-
+![Logo of the project](https://github.com/jframnp/cookbook/blob/main/assets/image_receita.jpeg)
 
 
 
