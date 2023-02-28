@@ -51,6 +51,7 @@
 
 ## Links 
   - Repositório: https://github.com/jframnp/cookbook
+  - Link do video com o nosso App funcionando: https://youtu.be/fylAhH9i27k
     - Em caso de bugs, chamem pelo email do nosso teachlead jfranciscomnp@gmail.com
     
 ## Autores
